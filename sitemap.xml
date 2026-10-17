@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace the placeholder origin with the verified production domain before launch. -->
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/shop</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/faq</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/about</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/contact</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/privacy-policy</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/terms-and-conditions</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/cookie-policy</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/refund-policy</loc></url>
+</urlset>

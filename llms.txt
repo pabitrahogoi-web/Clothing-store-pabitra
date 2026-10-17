@@ -1,0 +1,16 @@
+# PABITRA
+
+> PABITRA is a clothing-store website project. Product and business data may be demo content until verified by the owner.
+
+## Public pages
+- /: Homepage
+- /shop: Product catalogue
+- /faq: Frequently asked questions
+- /about: Brand information (draft)
+- /contact: Contact information (requires owner configuration)
+- /privacy-policy: Privacy policy draft
+- /terms-and-conditions: Terms and conditions draft
+- /cookie-policy: Cookie policy draft
+- /refund-policy: Returns, refunds and exchanges draft
+
+Only treat published, verified catalogue data as current product availability. Do not infer private customer or order data.
